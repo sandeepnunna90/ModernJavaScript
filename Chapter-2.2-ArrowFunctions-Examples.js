@@ -36,5 +36,5 @@ const square2 = (a) => a * a;
 const square3 = a => a * a;
 
 
-//popular with arrays functions like map etc.
+//popular with arrays functions like map or filter
 [1, 2, 3, 4].map(a => a * a);

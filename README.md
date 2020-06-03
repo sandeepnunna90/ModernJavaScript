@@ -5,7 +5,7 @@ Features of Modern Javascript (EMCAScript) that are often used in React
 - Const
 - Arrow Functions
 - ObjectLiteral
-- Destructuring
+- Destructuring - Arrays & Objects
 - TemplateStrings
 - Classes
 - Basic Promises

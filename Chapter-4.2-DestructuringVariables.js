@@ -15,4 +15,4 @@ const [value, setValue] = useState(initialValue)
 
 const [first, ...restofthem] = [10, 20, 30, 40]
 console.log(first); // gives 10
-console.log(restofthem); // gives [20, 30, 40]
+console.log(restofthem); // gives an array [20, 30, 40]

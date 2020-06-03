@@ -24,6 +24,8 @@ i
 
 // To avoid this in mordern JS we declare variables inside with let instead of var
 // So the for loop becomes
+//variables inside block scope can be access outside the block(loop)
+
 
 for (let j=0, j<= 10, j++) {
 
@@ -43,3 +45,4 @@ function Sum(a, b) {
 // function Scope
 // If we try to call result outside of function
 // result - Will give an error in console
+// variables defined inside function scope cannot be accessed outside of the scope
