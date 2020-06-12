@@ -1,6 +1,6 @@
 # ModernJavaScript
 
-Features of Modern Javascript (EMCAScript) that are often used in React
+Features of Modern Javascript (ECMAScript) that are often used in React
 - Scopes
 - Const
 - Arrow Functions
