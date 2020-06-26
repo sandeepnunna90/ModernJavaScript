@@ -26,7 +26,6 @@ const Y = () => {
 
   Regular functions give access to their "calling" environment while arrow functions give access to their "defining" environment
 
-
   The value of the "this" keyword inside a regular function depends on HOW the function was CALLED (the OBJECT that made the call).
 
   The value of the "this" keyword inside an arrow function depends on WHERE the function was DEFINED (the SCOPE that defined the function).
